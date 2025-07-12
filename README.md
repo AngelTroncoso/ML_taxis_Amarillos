@@ -84,7 +84,7 @@ Aquí se exploran diversos modelos de clasificación, diseñados para **categori
 
 ---
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de **[tu-correo@example.com](mailto:tu-correo@example.com)** o abriendo un "issue" en este repositorio.
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de **[angeltroncoso2019@outlook.es](mailto:angeltroncoso209@outlook.es)** o abriendo un "issue" en este repositorio.
 
 ---
 
